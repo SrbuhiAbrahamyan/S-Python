@@ -1,2 +1,0 @@
-# S-Python
-for me
